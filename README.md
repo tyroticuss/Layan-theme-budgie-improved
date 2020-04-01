@@ -2,6 +2,8 @@
 
 Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
 
+based off the materia gtk theme: https://github.com/nana-4/materia-theme
+
 ## Layan budgie improvments
 
 - changed budgie tasklist buttons to lay out horizontally instead of vertically
@@ -11,14 +13,10 @@ Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which sup
 - category buttons on the budgie menu are rouned on the right side for more of a plata look
 - Changed suggested button color from sky blue to a gradient purple to match the rest of the theme
 
-This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for his great job!
-
-#### materia gtk theme: https://github.com/nana-4/materia-theme
-
 ## Showcase
 ...
 
-## Info
+## Requirements
 
 ### GTK+ 3.20 or later
 
