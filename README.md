@@ -1,16 +1,22 @@
-## Layan-gtk-theme
+## Layan-theme-budgie-improved
 
 Layan is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Budgie, etc.
+
+## Layan budgie improvments
+
+- changed budgie tasklist buttons to lay out horizontally instead of vertically
+- changed budgie unread notifications applet color to purple instead of light green to match the rest of the theme
+- removed dotted lines on scrolling areas like the budgie menu for a cleaner look
+- increased spacing and matched colors on budgie menu for an overall cleaner and uniform look
+- category buttons on the budgie menu are rouned on the right side for more of a plata look
+- Changed suggested button color from sky blue to a gradient purple to match the rest of the theme
 
 This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for his great job!
 
 #### materia gtk theme: https://github.com/nana-4/materia-theme
 
-## Previews
-![1](https://cn.opendesktop.org/img/5/d/3/a/7a86d212835c855e62ca9725c0031e6202ae.jpg)
-![2](https://cn.opendesktop.org/img/a/1/c/3/29262c8cf691666cca24a0636d22506daaca.jpg)
-![3](https://cn.opendesktop.org/img/7/a/8/7/26cacc08dc680e481f806e2626da080ab9fd.png)
-![4](https://cn.opendesktop.org/img/e/a/a/1/039563371d380c59ba9ad7d0a2b3cd6ebb00.jpg)
+## Showcase
+...
 
 ## Info
 
@@ -41,8 +47,16 @@ Search for the engines in your distributions repository or install the engines f
 
 ## Install Or Uninstall
 
-Open the terminal at current directory.
+(install git if you are going to clone the repo)
 
-Run
+Clone the repo into your terminal by typing
+    
+    git clone https://github.com/tyroticuss/Layan-theme-budgie-improved
 
-    ./install.sh
+Then cd into the directory by typing
+
+    cd Canta-theme-budgie-improved
+
+Then type this to install
+
+./install.sh
