@@ -8723,7 +8723,8 @@ window.budgie-popover:not(.csd) > frame.container > border {
 .budgie-menu button {
   min-height: 32px;
   padding: 0 8px;
-  border-radius: 19px;
+  border-top-right-radius: 19px;
+  border-bottom-right-radius: 19px;
   color: #FFFFFF;
   font-weight: normal;
 }
