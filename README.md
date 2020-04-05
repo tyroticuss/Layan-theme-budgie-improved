@@ -59,4 +59,4 @@ Then cd into the directory by typing
 
 Then type this to install
 
-./install.sh
+    ./install.sh
