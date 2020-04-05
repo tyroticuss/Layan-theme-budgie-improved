@@ -14,7 +14,9 @@ based off the materia gtk theme: https://github.com/nana-4/materia-theme
 - Changed suggested button color from sky blue to a gradient purple to match the rest of the theme
 
 ## Showcase
-...
+
+![](https://github.com/tyroticuss/Layan-theme-budgie-improved/blob/master/showcase/start%20menu%20preview.png)
+![](https://github.com/tyroticuss/Layan-theme-budgie-improved/blob/master/showcase/raven%20menu%20preview.png)
 
 ## Requirements
 
