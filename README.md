@@ -55,7 +55,7 @@ Clone the repo into your terminal by typing
 
 Then cd into the directory by typing
 
-    cd Canta-theme-budgie-improved
+    cd Layan-theme-budgie-improved
 
 Then type this to install
 
